@@ -134,28 +134,6 @@ git push -u origin main
 - [ ] GitHub Pagesを有効化（必要に応じて）
 - [ ] ブランチ保護ルールを設定
 
-### 4. README バッジ追加
-リポジトリ作成後、以下のバッジをREADMEに追加:
-
-```markdown
-![GitHub license](https://img.shields.io/github/license/ユーザー名/local-ai-chat)
-![GitHub stars](https://img.shields.io/github/stars/ユーザー名/local-ai-chat)
-![GitHub issues](https://img.shields.io/github/issues/ユーザー名/local-ai-chat)
-![CI](https://github.com/ユーザー名/local-ai-chat/workflows/CI/badge.svg)
-```
-
-## 追加推奨設定
-
-### リポジトリ設定
-- デフォルトブランチ: `main`
-- マージ設定: Squash and merge推奨
-- 自動削除: マージ後のブランチ削除を有効化
-
-### セキュリティ設定
-- Dependabot alerts有効化
-- Code scanning有効化
-- Secret scanning有効化
-
 ## プロジェクト完成度
 
 - 🟢 **コア機能**: 100% 完成
