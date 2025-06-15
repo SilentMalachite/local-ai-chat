@@ -195,9 +195,3 @@ npx vitest --ui
 - [LM Studio](https://lmstudio.ai/) - ローカルAIランタイム
 - [Radix UI](https://www.radix-ui.com/) - アクセシブルUIコンポーネント
 - [Tailwind CSS](https://tailwindcss.com/) - CSSフレームワーク
-
----
-
-<div align="center">
-Made with 💖 by the Local AI Chat Team
-</div>
